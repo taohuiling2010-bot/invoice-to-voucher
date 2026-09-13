@@ -118,7 +118,7 @@ invoice_to_voucher/
 ├── tests/
 │   └── test_results.xlsx          # 15 张全量测试记录与指标
 ├── output/
-│   └── 输出示例_分录台账与异常清单.xlsx
+│   └── sample_ledger_and_exceptions.xlsx
 └── docs/
     ├── demo.mp4                   # 2 分钟演示视频
     └── screenshots/               # 各节点配置与运行结果截图
