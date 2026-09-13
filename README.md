@@ -84,7 +84,7 @@ flowchart LR
 | 正常票误拦 | 0 |
 | 单张耗时 / Token | 约 4 秒 / 约 1,950 tokens |
 
-产出示例见 `output/输出示例_分录台账与异常清单.xlsx`：11 张通过票生成 33 行分录，借贷合计平衡；4 张异常票进入异常清单，标注原因，等待人工复核。
+产出示例见 `output/sample_ledger_and_exceptions.xlsx`：11 张通过票生成 33 行分录，借贷合计平衡；4 张异常票进入异常清单，标注原因，等待人工复核。
 
 ![正常票运行结果](docs/screenshots/08_run_normal.png)
 ![错票被拦截](docs/screenshots/09_run_error.png)
